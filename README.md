@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wdond086" alt="wdond086" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=opeolluwa&show_icons=true&locale=en&layout=compact" alt="wdond086" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wdond086&show_icons=true&locale=en&layout=compact" alt="wdond086" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=opeolluwa&show_icons=true&locale=en" alt="wdond086" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wdond086&show_icons=true&locale=en" alt="wdond086" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=opeolluwa&" alt="wdond086" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wdond086&" alt="wdond086" /></p>
 
 <!--
 Twitter not for now
