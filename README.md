@@ -16,10 +16,6 @@
 Twitter not for now
 <p align="left"> <a href="https://twitter.com/_opeolluwa" target="blank"><img src="https://img.shields.io/twitter/follow/_opeolluwa?logo=twitter&style=for-the-badge" alt="_opeolluwa" /></a> </p>
 -->
-<!--
-**wdond086/wdond086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improving my problem-solving skills as a developer by getting a detailed understanding of key concepts in Software engineering. I am doing so by following a roadmaps I found online. You can track my progress on the roadmap here:
 
@@ -31,4 +27,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Software engineering, mechanical engineering, soccer, and music.
 - 📫 How to reach me: tdondjiwilfried@hotmail.com
 - ⚡ Fun fact: I have a degree in Mechanical Engineering as well.
--->
