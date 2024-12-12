@@ -12,15 +12,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wdond086&" alt="wdond086" /></p>
 
+<p align="left" href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/675afdf5ecc889bb0d37b524?variant=dark" alt="roadmap.sh"/></p>
+
+[![roadmap.sh](https://roadmap.sh/card/tall/675afdf5ecc889bb0d37b524?variant=dark)](https://roadmap.sh)
+
 <!--
 Twitter not for now
 <p align="left"> <a href="https://twitter.com/_opeolluwa" target="blank"><img src="https://img.shields.io/twitter/follow/_opeolluwa?logo=twitter&style=for-the-badge" alt="_opeolluwa" /></a> </p>
 -->
 
-- 🔭 I’m currently working on improving my problem-solving skills as a developer by getting a detailed understanding of key concepts in Software engineering. I am doing so by following a roadmaps I found online. You can track my progress on the roadmap here:
-
-[![roadmap.sh](https://roadmap.sh/card/tall/675afdf5ecc889bb0d37b524?variant=dark)](https://roadmap.sh)
-
+- 🔭 I’m currently working on improving my problem-solving skills as a developer by getting a detailed understanding of key concepts in Software engineering. I am doing so by following a roadmaps I found online. You can track my progress on the roadmap graphic above:
 - 🌱 I’m currently learning Golang and Rust, and re-learning Data Structures and Algorithms using those languages. Why Go? It's close to Python syntactically while being more performant. Why Rust? I like its approach to handling memory safety with the concept of borrowing, and it's a low-level language which I think is essential for any engineer to know at least one of.
 - 👯 I’m looking to collaborate on cool Golang/Rust-based projects aiming to solve real problems.
 - 🤔 I’m looking for help with networking and making connections with experts in the field.
