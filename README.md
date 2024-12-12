@@ -10,10 +10,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wdond086&show_icons=true&locale=en" alt="wdond086" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wdond086&" alt="wdond086" /></p>
-
-<p align="left" href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/675afdf5ecc889bb0d37b524?variant=dark" alt="roadmap.sh"/></p>
-
 [![roadmap.sh](https://roadmap.sh/card/tall/675afdf5ecc889bb0d37b524?variant=dark)](https://roadmap.sh)
 
 <!--
